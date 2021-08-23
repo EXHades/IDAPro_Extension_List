@@ -1,6 +1,6 @@
 # IDAPro_Extension_List
 
->   I personally Common extensions for IDA Pro 
+>   I personally use extensions for IDAPro 
 
 * [vm86](https://github.com/tboox/vm86) - x86汇编虚拟机 - 可以直接从IDAPro加载和运行汇编代码
 * [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
